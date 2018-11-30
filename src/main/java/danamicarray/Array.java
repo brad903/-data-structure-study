@@ -1,4 +1,4 @@
-package danamicArray;
+package danamicarray;
 
 public class Array<E> implements ArrayInterface {
     private E[] data;

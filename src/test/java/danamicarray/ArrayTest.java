@@ -1,4 +1,4 @@
-package danamicArray;
+package danamicarray;
 
 import org.junit.Test;
 
