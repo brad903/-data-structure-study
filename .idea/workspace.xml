@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2b56eff-ad45-44d3-bbdc-4f8ad72562f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/doublelinkedlist/DoubleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/doublelinkedlist/DoubleLinkedListInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/doublelinkedlist/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/doublelinkedlist/DoubleLinkedListTest.java" afterDir="false" />
+    <list default="true" id="5c8fed5b-72b6-4376-b652-75a8df444591" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/texteditor/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/texteditor/Cursor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/texteditor/CursorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/danamicArray/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/danamicarray/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/danamicArray/ArrayInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/danamicarray/ArrayInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/danamicArray/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/danamicarray/ArrayTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,48 +29,53 @@
     <session id="-805179405">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="11" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="2914" />
+          <entry key="JAVA" value="1297" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/doublelinkedlist/DoubleLinkedList.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/texteditor/Cursor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="105" column="20" lean-forward="true" selection-start-line="105" selection-start-column="20" selection-end-line="105" selection-end-column="20" />
+            <state relative-caret-position="520">
+              <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
               <folding>
-                <element signature="e#2898#2899#0" expanded="true" />
-                <element signature="e#2934#2935#0" expanded="true" />
-                <element signature="e#3620#3621#0" expanded="true" />
-                <element signature="e#3652#3653#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#707#708#0" expanded="true" />
+                <element signature="e#732#733#0" expanded="true" />
+                <element signature="e#1042#1043#0" expanded="true" />
+                <element signature="e#1069#1070#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/doublelinkedlist/DoubleLinkedListTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/texteditor/CursorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="54" column="35" lean-forward="true" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+            <state relative-caret-position="880">
+              <caret line="101" column="28" lean-forward="true" selection-start-line="101" selection-start-column="28" selection-end-line="101" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,10 +84,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/doublelinkedlist/DoubleLinkedListInterface.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/texteditor/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -92,9 +97,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -104,7 +108,7 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8" />
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -469,6 +473,7 @@
         <entry key="$USER_HOME$/Codesquad/workspace/java-coordinate" value="PREVIEW" />
         <entry key="$USER_HOME$/Codesquad/workspace/java-ladder" value="PREVIEW" />
         <entry key="$USER_HOME$/Codesquad/workspace/java-qna" value="PREVIEW" />
+        <entry key="$USER_HOME$/Codesquad/workspace/java-qna-atdd" value="PREVIEW" />
         <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
         <entry key="$USER_HOME$/Downloads/coordinate-exception" value="PREVIEW" />
         <entry key="$USER_HOME$/Downloads/egkatzioura.wordpress.com-master/SpringAspectOrientation" value="PREVIEW" />
@@ -477,30 +482,24 @@
         <entry key="$USER_HOME$/Downloads/java-qna-practice" value="PREVIEW" />
         <entry key="$USER_HOME$/Downloads/lotto-di" value="PREVIEW" />
         <entry key="$USER_HOME$/Downloads/lotto-di-2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/spring-bean-lifecycle" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/spring-bean-lifecycle/test" value="PREVIEW" />
       </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/danamicarray/ArrayInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data/ArrayInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data/ArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/data/ArrayTest.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/test/java/danamicArray/ArrayTest.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/test/java/danamicarray/ArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/doublelinkedlist/DoubleLinkedListInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/doublelinkedlist/Node.java" />
-        <option value="$PROJECT_DIR$/src/main/java/doublelinkedlist/DoubleLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/test/java/doublelinkedlist/DoubleLinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/texteditor/Controller.java" />
+        <option value="$PROJECT_DIR$/src/test/java/texteditor/CursorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/texteditor/Cursor.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="1440" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -518,7 +517,7 @@
     </entry>
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Default Changelist'; set:Default Changelist; class com.intellij.packageDependencies.ChangeListScope" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -546,32 +545,34 @@
               <item name="codesquad.datastructure" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="codesquad.datastructure_main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="doublelinkedlist" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="texteditor" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Changed Files'; set:Changed Files; ALL; class com.intellij.packageDependencies.ChangeListScope">
+          <expand>
+            <path>
+              <item name="codesquad.datastructure" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="codesquad.datastructure" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
             <path>
               <item name="codesquad.datastructure" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="codesquad.datastructure" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="codesquad.datastructure_test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="codesquad.datastructure_main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
             <path>
               <item name="codesquad.datastructure" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="codesquad.datastructure" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="codesquad.datastructure_test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="codesquad.datastructure_main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="codesquad.datastructure" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="codesquad.datastructure" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="codesquad.datastructure_test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="codesquad.datastructure_main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="danamicarray" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="codesquad.datastructure" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="codesquad.datastructure" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="codesquad.datastructure_test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="doublelinkedlist" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="texteditor" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -608,15 +609,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="danamicarray" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codesquad.datastructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structure-study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="doublelinkedlist" type="462c0819:PsiDirectoryNode" />
+              <item name="texteditor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codesquad.datastructure" type="b2602c69:ProjectViewProjectNode" />
@@ -630,14 +623,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codesquad.datastructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structure-study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="danamicarray" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -646,27 +631,19 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="LinkedList&#9;FILE&#9;jrt:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home!/java.base/java/util/LinkedList.class" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="doublelinkedlist" />
-      <recent name="data" />
+      <recent name="texteditor" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="data" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -681,99 +658,99 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DoubleLinkedListTest.remove">
-    <configuration name="DoubleLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CursorTest">
+    <configuration name="CursorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codesquad.datastructure_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="doublelinkedlist.*" />
+          <option name="PATTERN" value="texteditor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="doublelinkedlist" />
-      <option name="MAIN_CLASS_NAME" value="doublelinkedlist.DoubleLinkedListTest" />
+      <option name="PACKAGE_NAME" value="texteditor" />
+      <option name="MAIN_CLASS_NAME" value="texteditor.CursorTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleLinkedListTest.indexOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CursorTest.해당_줄_통째로_삭제" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codesquad.datastructure_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="doublelinkedlist.*" />
+          <option name="PATTERN" value="texteditor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="doublelinkedlist" />
-      <option name="MAIN_CLASS_NAME" value="doublelinkedlist.DoubleLinkedListTest" />
-      <option name="METHOD_NAME" value="indexOf" />
+      <option name="PACKAGE_NAME" value="texteditor" />
+      <option name="MAIN_CLASS_NAME" value="texteditor.CursorTest" />
+      <option name="METHOD_NAME" value="해당_줄_통째로_삭제" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleLinkedListTest.remove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CursorTest.해당_줄_특정col이후_끝까지_삭제" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codesquad.datastructure_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="doublelinkedlist.*" />
+          <option name="PATTERN" value="texteditor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="doublelinkedlist" />
-      <option name="MAIN_CLASS_NAME" value="doublelinkedlist.DoubleLinkedListTest" />
-      <option name="METHOD_NAME" value="remove" />
+      <option name="PACKAGE_NAME" value="texteditor" />
+      <option name="MAIN_CLASS_NAME" value="texteditor.CursorTest" />
+      <option name="METHOD_NAME" value="해당_줄_특정col이후_끝까지_삭제" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleLinkedListTest.removeFirst" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CursorTest.해당_줄_특정col이후_특정col까지_업데이트" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codesquad.datastructure_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="doublelinkedlist.*" />
+          <option name="PATTERN" value="texteditor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="doublelinkedlist" />
-      <option name="MAIN_CLASS_NAME" value="doublelinkedlist.DoubleLinkedListTest" />
-      <option name="METHOD_NAME" value="removeFirst" />
+      <option name="PACKAGE_NAME" value="texteditor" />
+      <option name="MAIN_CLASS_NAME" value="texteditor.CursorTest" />
+      <option name="METHOD_NAME" value="해당_줄_특정col이후_특정col까지_업데이트" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleLinkedListTest.removeLast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CursorTest.해당_줄_특정col이후_특정col까지_삭제" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codesquad.datastructure_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="doublelinkedlist.*" />
+          <option name="PATTERN" value="texteditor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="doublelinkedlist" />
-      <option name="MAIN_CLASS_NAME" value="doublelinkedlist.DoubleLinkedListTest" />
-      <option name="METHOD_NAME" value="removeLast" />
+      <option name="PACKAGE_NAME" value="texteditor" />
+      <option name="MAIN_CLASS_NAME" value="texteditor.CursorTest" />
+      <option name="METHOD_NAME" value="해당_줄_특정col이후_특정col까지_삭제" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.DoubleLinkedListTest" />
-      <item itemvalue="JUnit.DoubleLinkedListTest.removeFirst" />
-      <item itemvalue="JUnit.DoubleLinkedListTest.removeLast" />
-      <item itemvalue="JUnit.DoubleLinkedListTest.indexOf" />
-      <item itemvalue="JUnit.DoubleLinkedListTest.remove" />
+      <item itemvalue="JUnit.CursorTest.해당_줄_특정col이후_특정col까지_업데이트" />
+      <item itemvalue="JUnit.CursorTest" />
+      <item itemvalue="JUnit.CursorTest.해당_줄_통째로_삭제" />
+      <item itemvalue="JUnit.CursorTest.해당_줄_특정col이후_끝까지_삭제" />
+      <item itemvalue="JUnit.CursorTest.해당_줄_특정col이후_특정col까지_삭제" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DoubleLinkedListTest.remove" />
-        <item itemvalue="JUnit.DoubleLinkedListTest.indexOf" />
-        <item itemvalue="JUnit.DoubleLinkedListTest" />
-        <item itemvalue="JUnit.DoubleLinkedListTest.removeLast" />
-        <item itemvalue="JUnit.DoubleLinkedListTest.removeFirst" />
+        <item itemvalue="JUnit.CursorTest" />
+        <item itemvalue="JUnit.CursorTest.해당_줄_특정col이후_특정col까지_삭제" />
+        <item itemvalue="JUnit.CursorTest.해당_줄_특정col이후_끝까지_삭제" />
+        <item itemvalue="JUnit.CursorTest.해당_줄_통째로_삭제" />
+        <item itemvalue="JUnit.CursorTest.해당_줄_특정col이후_특정col까지_업데이트" />
       </list>
     </recent_temporary>
   </component>
@@ -782,172 +759,132 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f2b56eff-ad45-44d3-bbdc-4f8ad72562f0" name="Default Changelist" comment="" />
-      <created>1543540561401</created>
+      <changelist id="5c8fed5b-72b6-4376-b652-75a8df444591" name="Default Changelist" comment="" />
+      <created>1544108629732</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1543540561401</updated>
+      <updated>1544108629732</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DoubleLinkedListTest_removeFirst - 2018.11.30 at 12h 27m 24s.xml">
-      <configuration name="DoubleLinkedListTest.removeFirst" configurationId="JUnit" />
+    <history-entry file="CursorTest_한줄씩_데이터_저장 - 2018.12.07 at 01h 00m 18s.xml">
+      <configuration name="CursorTest.한줄씩_데이터_저장" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DoubleLinkedListTest - 2018.11.30 at 12h 30m 18s.xml">
-      <configuration name="DoubleLinkedListTest" configurationId="JUnit" />
+    <history-entry file="CursorTest_한줄씩_데이터_읽기 - 2018.12.07 at 01h 00m 21s.xml">
+      <configuration name="CursorTest.한줄씩_데이터_읽기" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DoubleLinkedListTest_removeLast - 2018.11.30 at 12h 30m 31s.xml">
-      <configuration name="DoubleLinkedListTest.removeLast" configurationId="JUnit" />
+    <history-entry file="CursorTest_해당줄_Col_이후_끝까지_읽어오기 - 2018.12.07 at 01h 00m 23s.xml">
+      <configuration name="CursorTest.해당줄_Col_이후_끝까지_읽어오기" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DoubleLinkedListTest_removeLast - 2018.11.30 at 12h 30m 38s.xml">
-      <configuration name="DoubleLinkedListTest.removeLast" configurationId="JUnit" />
+    <history-entry file="CursorTest_해당줄_Col_이후_해당인덱스까지_읽어오기 - 2018.12.07 at 01h 00m 27s.xml">
+      <configuration name="CursorTest.해당줄_Col_이후_해당인덱스까지_읽어오기" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DoubleLinkedListTest - 2018.11.30 at 12h 33m 13s.xml">
-      <configuration name="DoubleLinkedListTest" configurationId="JUnit" />
+    <history-entry file="CursorTest_해당_줄_통째로_업데이트 - 2018.12.07 at 01h 00m 30s.xml">
+      <configuration name="CursorTest.해당_줄_통째로_업데이트" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DoubleLinkedListTest_indexOf - 2018.11.30 at 13h 54m 45s.xml">
-      <configuration name="DoubleLinkedListTest.indexOf" configurationId="JUnit" />
+    <history-entry file="CursorTest_해당_줄_특정col이후_끝까지_업데이트 - 2018.12.07 at 01h 00m 33s.xml">
+      <configuration name="CursorTest.해당_줄_특정col이후_끝까지_업데이트" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DoubleLinkedListTest_indexOf - 2018.11.30 at 13h 54m 56s.xml">
-      <configuration name="DoubleLinkedListTest.indexOf" configurationId="JUnit" />
+    <history-entry file="CursorTest_해당_줄_특정col이후_특정col까지_업데이트 - 2018.12.07 at 01h 00m 37s.xml">
+      <configuration name="CursorTest.해당_줄_특정col이후_특정col까지_업데이트" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DoubleLinkedListTest_indexOf - 2018.11.30 at 13h 55m 12s.xml">
-      <configuration name="DoubleLinkedListTest.indexOf" configurationId="JUnit" />
+    <history-entry file="CursorTest - 2018.12.07 at 01h 02m 07s.xml">
+      <configuration name="CursorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DoubleLinkedListTest_remove - 2018.11.30 at 14h 04m 53s.xml">
-      <configuration name="DoubleLinkedListTest.remove" configurationId="JUnit" />
+    <history-entry file="CursorTest_해당_줄_통째로_삭제 - 2018.12.07 at 01h 05m 08s.xml">
+      <configuration name="CursorTest.해당_줄_통째로_삭제" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DoubleLinkedListTest_remove - 2018.11.30 at 14h 05m 17s.xml">
-      <configuration name="DoubleLinkedListTest.remove" configurationId="JUnit" />
+    <history-entry file="CursorTest_해당_줄_특정col이후_끝까지_삭제 - 2018.12.07 at 01h 08m 27s.xml">
+      <configuration name="CursorTest.해당_줄_특정col이후_끝까지_삭제" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="DB Browser" />
-      <window_info id="Designer" />
-      <window_info id="Project Explorer" />
-      <window_info id="UI Designer" />
-      <window_info id="Job Explorer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Console" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32891566" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32891566" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Project Explorer" order="2" />
+      <window_info id="DB Browser" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Job Explorer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32970297" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32970297" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Console" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="12" weight="0.3148515" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/data/ArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        <state relative-caret-position="216">
+          <caret line="928" column="18" selection-start-line="928" selection-start-column="18" selection-end-line="928" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state relative-caret-position="216">
+          <caret line="260" column="25" selection-start-line="260" selection-start-column="25" selection-end-line="260" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/danamicarray/ArrayTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/texteditor/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/texteditor/CursorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="101" column="28" lean-forward="true" selection-start-line="101" selection-start-column="28" selection-end-line="101" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/danamicarray/Array.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/texteditor/Cursor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/danamicarray/ArrayInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jrt:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home!/java.base/java/util/LinkedList.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-201">
-          <folding>
-            <element signature="e#0#21539#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/doublelinkedlist/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#737#738#0" expanded="true" />
-            <element signature="e#795#796#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/doublelinkedlist/DoubleLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="105" column="20" lean-forward="true" selection-start-line="105" selection-start-column="20" selection-end-line="105" selection-end-column="20" />
-          <folding>
-            <element signature="e#2898#2899#0" expanded="true" />
-            <element signature="e#2934#2935#0" expanded="true" />
-            <element signature="e#3620#3621#0" expanded="true" />
-            <element signature="e#3652#3653#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/doublelinkedlist/DoubleLinkedListInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/doublelinkedlist/DoubleLinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="54" column="35" lean-forward="true" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+        <state relative-caret-position="520">
+          <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#1042#1043#0" expanded="true" />
+            <element signature="e#1069#1070#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -955,30 +892,6 @@
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -1002,19 +915,6 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>codesquad.datastructure_test|codesquad.datastructure</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>10</last-edited>
@@ -1029,7 +929,6 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Gradle: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
