@@ -22,8 +22,14 @@ public class Controller {
         this.answer = answer;
     }
 
-    public void work() {
+    public void basicWork() {
         Selection selection = workflow.get(selectNum);
         selection.edit(answer);
+    }
+
+    public static void extraWork(int selection) {
+        if(selection == 5) {
+            Cursor.readAll();
+        }
     }
 }

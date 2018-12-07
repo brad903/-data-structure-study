@@ -18,10 +18,11 @@ public class InputView {
 
     public static void showMenu() {
         System.out.println("---------------------");
-        System.out.println("1.입력");
-        System.out.println("2.읽기");
-        System.out.println("3.수정");
-        System.out.println("4.삭제");
+        System.out.println("1. 입력");
+        System.out.println("2. 읽기");
+        System.out.println("3. 수정");
+        System.out.println("4. 삭제");
+        System.out.println("5. 전체 읽기");
         System.out.println("---------------------");
     }
 
