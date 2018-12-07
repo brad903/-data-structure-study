@@ -1,5 +1,6 @@
-package texteditor.domain;
+package texteditor;
 
+import texteditor.domain.Cursor;
 import texteditor.domain.edit.*;
 
 import java.util.HashMap;

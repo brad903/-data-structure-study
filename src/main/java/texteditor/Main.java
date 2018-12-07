@@ -1,6 +1,5 @@
 package texteditor;
 
-import texteditor.domain.Controller;
 import texteditor.view.InputView;
 
 public class Main {
@@ -18,7 +17,6 @@ public class Main {
                 }
             } catch(Exception e) {
                 System.out.println("오류가 발생하였습니다. 다시 시작합니다!!");
-                main(args);
             }
         }
     }
