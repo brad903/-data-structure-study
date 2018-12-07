@@ -3,6 +3,7 @@ package texteditor;
 import org.junit.Before;
 import org.junit.Test;
 import org.slf4j.Logger;
+import texteditor.domain.Cursor;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.slf4j.LoggerFactory.getLogger;
@@ -89,7 +90,6 @@ public class CursorTest {
     public void 해당_줄_특정col이후_끝까지_삭제() {
         String data = "Hello World!";
         cursor.create(data);
-
         cursor.delete(0, 3);
         assertThat(cursor.read(0)).isEqualTo("Hel");
     }
