@@ -1,6 +1,5 @@
 package texteditor;
 
-import texteditor.domain.Cursor;
 import texteditor.domain.edit.*;
 
 import java.util.HashMap;
@@ -26,11 +25,5 @@ public class Controller {
     public void basicWork() {
         Selection selection = workflow.get(selectNum);
         selection.edit(answer);
-    }
-
-    public static void extraWork(int selection) {
-        if(selection == 5) {
-            Cursor.readAll();
-        }
     }
 }

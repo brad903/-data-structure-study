@@ -23,6 +23,7 @@ public class InputView {
         System.out.println("3. 수정");
         System.out.println("4. 삭제");
         System.out.println("5. 전체 읽기");
+        System.out.println("6. 종료");
         System.out.println("---------------------");
     }
 
