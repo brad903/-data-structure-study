@@ -3,6 +3,7 @@ package sort;
 import java.util.*;
 import java.util.stream.IntStream;
 
+@CalculateTime(name = "brad", value = "genious")
 public class Sort {
 
     // insert insertionSort

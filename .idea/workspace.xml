@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c8fed5b-72b6-4376-b652-75a8df444591" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/sort/CalculateTime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -22,13 +23,42 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="codesquad.datastructure" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/sort/Sort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="36">
+              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sort/CalculateTime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/sort/SortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+            <state relative-caret-position="21">
+              <caret line="130" column="20" lean-forward="true" selection-start-line="130" selection-start-column="20" selection-end-line="130" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -53,8 +83,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="JUnit4 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -63,6 +93,8 @@
     <findStrings>
       <find>System.out</find>
       <find>Com</find>
+      <find>aspect</find>
+      <find>Executing TestTarget.yourMethodAround</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -88,8 +120,13 @@
         <option value="$PROJECT_DIR$/src/main/java/texteditor/Controller.java" />
         <option value="$PROJECT_DIR$/src/main/java/sort/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/sort/People.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sort/Sort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sort/logPrintHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sort/Driver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sort/Log.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/sort/SortTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sort/CalculateTime.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sort/Sort.java" />
       </list>
     </option>
   </component>
@@ -245,7 +282,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -268,7 +305,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SortTest">
+  <component name="RunManager" selected="JUnit.SortTest.annotationTest">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.Driver" />
+      <module name="codesquad.datastructure_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codesquad.datastructure_test" />
       <extension name="coverage">
@@ -279,6 +329,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="sort" />
       <option name="MAIN_CLASS_NAME" value="sort.SortTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortTest.annotationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codesquad.datastructure_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sort" />
+      <option name="MAIN_CLASS_NAME" value="sort.SortTest" />
+      <option name="METHOD_NAME" value="annotationTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -315,52 +381,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortTest.insertion_insertion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codesquad.datastructure_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="sort" />
-      <option name="MAIN_CLASS_NAME" value="sort.SortTest" />
-      <option name="METHOD_NAME" value="insertion_insertion" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortTest.sortTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codesquad.datastructure_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="sort" />
-      <option name="MAIN_CLASS_NAME" value="sort.SortTest" />
-      <option name="METHOD_NAME" value="sortTest1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.SortTest.sortTest1" />
       <item itemvalue="JUnit.SortTest" />
-      <item itemvalue="JUnit.SortTest.insertion_insertion" />
       <item itemvalue="JUnit.SortTest.bubble_bubble" />
       <item itemvalue="JUnit.SortTest.array_sort" />
+      <item itemvalue="JUnit.SortTest.annotationTest" />
+      <item itemvalue="Application.Driver" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SortTest.annotationTest" />
+        <item itemvalue="Application.Driver" />
         <item itemvalue="JUnit.SortTest" />
         <item itemvalue="JUnit.SortTest.array_sort" />
         <item itemvalue="JUnit.SortTest.bubble_bubble" />
-        <item itemvalue="JUnit.SortTest.insertion_insertion" />
-        <item itemvalue="JUnit.SortTest.sortTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -378,35 +412,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SortTest_sortTest2 - 2018.12.14 at 16h 08m 40s.xml">
-      <configuration name="SortTest.sortTest2" configurationId="JUnit" />
+    <history-entry file="SortTest_annotationTest - 2018.12.14 at 18h 20m 37s.xml">
+      <configuration name="SortTest.annotationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortTest_sortTest1 - 2018.12.14 at 16h 09m 15s.xml">
-      <configuration name="SortTest.sortTest1" configurationId="JUnit" />
+    <history-entry file="SortTest_annotationTest - 2018.12.14 at 18h 21m 03s.xml">
+      <configuration name="SortTest.annotationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortTest - 2018.12.14 at 16h 11m 02s.xml">
-      <configuration name="SortTest" configurationId="JUnit" />
+    <history-entry file="SortTest_annotationTest - 2018.12.14 at 18h 22m 24s.xml">
+      <configuration name="SortTest.annotationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortTest - 2018.12.14 at 16h 12m 38s.xml">
-      <configuration name="SortTest" configurationId="JUnit" />
+    <history-entry file="SortTest_annotationTest - 2018.12.14 at 18h 25m 34s.xml">
+      <configuration name="SortTest.annotationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortTest_insertion_insertion - 2018.12.14 at 16h 14m 12s.xml">
-      <configuration name="SortTest.insertion_insertion" configurationId="JUnit" />
+    <history-entry file="SortTest_annotationTest - 2018.12.14 at 18h 38m 47s.xml">
+      <configuration name="SortTest.annotationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortTest_bubble_bubble - 2018.12.14 at 16h 14m 44s.xml">
-      <configuration name="SortTest.bubble_bubble" configurationId="JUnit" />
+    <history-entry file="SortTest_annotationTest - 2018.12.14 at 18h 44m 20s.xml">
+      <configuration name="SortTest.annotationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortTest_array_sort - 2018.12.14 at 16h 15m 35s.xml">
-      <configuration name="SortTest.array_sort" configurationId="JUnit" />
+    <history-entry file="SortTest_annotationTest - 2018.12.14 at 18h 53m 18s.xml">
+      <configuration name="SortTest.annotationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortTest_array_sort - 2018.12.14 at 16h 15m 41s.xml">
-      <configuration name="SortTest.array_sort" configurationId="JUnit" />
+    <history-entry file="SortTest_annotationTest - 2018.12.14 at 18h 54m 10s.xml">
+      <configuration name="SortTest.annotationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortTest - 2018.12.14 at 16h 17m 41s.xml">
-      <configuration name="SortTest" configurationId="JUnit" />
+    <history-entry file="SortTest_annotationTest - 2018.12.14 at 18h 58m 04s.xml">
+      <configuration name="SortTest.annotationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortTest - 2018.12.14 at 16h 19m 19s.xml">
-      <configuration name="SortTest" configurationId="JUnit" />
+    <history-entry file="SortTest_annotationTest - 2018.12.14 at 18h 58m 18s.xml">
+      <configuration name="SortTest.annotationTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -414,6 +448,38 @@
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26323318" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Project Explorer" order="2" />
+      <window_info id="DB Browser" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Job Explorer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5710843" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Console" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="12" weight="0.3148515" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" weight="0.3297568" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26323318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="DB Browser" order="3" />
@@ -436,45 +502,18 @@
       <window_info anchor="bottom" id="Build" order="12" weight="0.3148515" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Gradle" order="4" />
+      <window_info anchor="right" id="Gradle" order="4" weight="0.3297568" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="right" id="Maven" order="7" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25608012" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Project Explorer" order="2" />
-      <window_info id="DB Browser" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Job Explorer" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3192771" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Console" order="7" />
-      <window_info anchor="bottom" id="DB Execution Console" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="12" weight="0.3148515" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32891566" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Gradle" order="4" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
     </layout-to-restore>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
@@ -677,17 +716,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.9.2/1428934ab23fe062003c72b0d4ef143aff603c64/aspectjrt-1.9.2-sources.jar!/org/aspectj/lang/annotation/Around.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.9.2/7aa564f5753105f884c50bc84ffa49a282c10a00/aspectjweaver-1.9.2-sources.jar!/org/aspectj/lang/annotation/Around.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/logPrintHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="210">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/Log.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-start-column="2" selection-end-line="8" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sort/Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="36">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/CalculateTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -696,8 +786,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/sort/SortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        <state relative-caret-position="21">
+          <caret line="130" column="20" lean-forward="true" selection-start-line="130" selection-start-column="20" selection-end-line="130" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -3,6 +3,8 @@ package sort;
 import org.junit.Before;
 import org.junit.Test;
 
+import javax.annotation.Resource;
+import java.lang.annotation.Annotation;
 import java.util.Arrays;
 
 
@@ -123,5 +125,20 @@ public class SortTest {
         long end = System.currentTimeMillis();
         System.out.println("arraySortTwice : " + (end - middle));
         System.out.println("-----------------------------------");
+    }
+
+    @Test
+    public void annotationTest() {
+        Class aClass = Sort.class;
+        Annotation[] annotations = aClass.getAnnotations();
+
+        for(Annotation annotation : annotations){
+            if(annotation instanceof CalculateTime){
+                CalculateTime myAnnotation = (CalculateTime) annotation;
+                System.out.println("name: " + myAnnotation.name());
+                System.out.println("value: " + myAnnotation.value());
+            }
+        }
+
     }
 }
